@@ -17,5 +17,4 @@ weight = 2
 目标位置，则获得胜利。同时会有一个死神在场景中游荡，被死神抓到则游戏失败。
 
 Demo:
-
-<iframe height=300 width=510 src='http://player.youku.com/embed/XMzYxMjAxODQ1Mg==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=300 width=510 src='https://player.youku.com/embed/XMzYxMjAxODQ1Mg==' frameborder=0 'allowfullscreen'></iframe>

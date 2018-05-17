@@ -15,7 +15,8 @@ AR四轴飞行器游戏
 为国内的一家玩具公司做的游戏，只在IOS平台上线。
 玩家操纵四轴飞行器，打败现实环境中的敌人。
 
-<iframe height=300 width=510 src='http://player.youku.com/embed/XMjk3NjA1MDQ5Ng==' frameborder=0 'allowfullscreen'></iframe>
+Demo:
+<iframe height=300 width=510 src='https://player.youku.com/embed/XMjk3NjA1MDQ5Ng==' frameborder=0 'allowfullscreen'></iframe>
 
 apple store：
 https://itunes.apple.com/jp/app/jjrc-ar-master-shooter/id1265629672?mt=8

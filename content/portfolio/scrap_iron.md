@@ -16,5 +16,4 @@ weight = 3
 玩家组装机械（实际只做出了组转车辆类机械）来解决每一关给出的任务。
 
 Demo:
-
-<iframe height=300 width=510 src='http://player.youku.com/embed/XMzYxMjAyMDk4NA==' frameborder=0 'allowfullscreen'></iframe>
+<iframe height=300 width=510 src='https://player.youku.com/embed/XMzYxMjAyMDk4NA==' frameborder=0 'allowfullscreen'></iframe>

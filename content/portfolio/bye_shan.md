@@ -15,5 +15,4 @@ weight = 4
 玩家会在看似无限的轮回中被困在自己的房间，不停地解开谜题才能突破世界线。
 
 Demo:
-
 <iframe height=300 width=510 src='https://player.youku.com/embed/XMzYxMjA4MzAyMA==' frameborder=0 'allowfullscreen'></iframe>
