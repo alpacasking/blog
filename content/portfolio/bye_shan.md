@@ -16,4 +16,4 @@ weight = 4
 
 Demo:
 
-<iframe height=300 width=510 src='http://player.youku.com/embed/XMzYxMjA4MzAyMA==' frameborder=0 'allowfullscreen'></iframe>
+<embed src='http://player.youku.com/player.php/sid/XMzYxMjA4MzAyMA==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
