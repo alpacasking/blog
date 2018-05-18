@@ -17,5 +17,5 @@ weight = 2
 有很多镜子，同时会有一束光。玩家通过旋转镜子的角度，使光线不断反射，最后照到
 目标位置，则获得胜利。同时会有一个死神在场景中游荡，被死神抓到则游戏失败。
 
-Demo:
+Demo:<br>
 <iframe height=300 width=510 src='https://player.youku.com/embed/XMzYxMjAxODQ1Mg==' frameborder=0 'allowfullscreen'></iframe>

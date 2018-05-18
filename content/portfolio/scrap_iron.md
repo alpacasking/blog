@@ -16,5 +16,5 @@ weight = 3
 为了磨练技术用OpenGL和Bullet物理引擎写的游戏。
 玩家组装机械（实际只做出了组转车辆类机械）来解决每一关给出的任务。
 
-Demo:
+Demo:<br>
 <iframe height=300 width=510 src='https://player.youku.com/embed/XMzYxMjAyMDk4NA==' frameborder=0 'allowfullscreen'></iframe>

@@ -15,6 +15,6 @@ weight = 7
 
 唯一一个用SDL写的游戏，很久很久很久之前写的，但是现在仍然记得当时写得很简洁。
 
-Demo:
+Demo:<br>
 <iframe height=300 width=510 src='https://player.youku.com/embed/XMzYxMjAyNDIzMg==' frameborder=0 'allowfullscreen'></iframe>
 
