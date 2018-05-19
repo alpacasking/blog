@@ -14,6 +14,3 @@ title = "关于我"
 * JCL外国语学院
 * 株式会社サイバーコネクトツー
 * 株式会社Donuts
-
-#### 我的简历
-https://alpacasking.github.io/nimo-markdown-cv/
