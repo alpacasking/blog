@@ -1,9 +1,9 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/sculptor_henry_title.png"
+image = "img/portfolio/sculptor_inversion_title.png"
 date = "2018-05-16T23:29:39+09:00"
-title = "Sculptor Henry"
+title = "雕刻家：反转"
 weight = 5
 +++
 
